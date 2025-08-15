@@ -1,0 +1,23 @@
+
+# Core LangChain packages
+langchain
+langchain-openai
+langchain-community
+
+# LangGraph for workflow orchestration
+langgraph
+
+# PDF processing
+PyMuPDF
+
+# Vector database
+chromadb
+
+# Environment variables
+python-dotenv
+
+# Additional dependencies
+numpy
+pandas
+tiktoken
+openai
